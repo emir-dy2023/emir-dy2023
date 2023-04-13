@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Emir LLaneza 
+
+A passionate Sr Software Developer from Philippines. 
+
+Been in the IT industry for almost 13 years, 8 years of it is with software development and 5 years in system administration and network management. Being a software developer, I had experience working from system development, mobile development and in web development. Some technologies I enjoy working with includes Ruby on Rails, PHP Laravel and ReactJS and currently exploring technologies related to information security. During my off or not working I like visiting different places with my motorcycle and also like playing mobile games.
+
+- :mailbox:You can reach me through: [![Linkedin Badge](https://img.shields.io/badge/-ellaneza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emirllaneza/)
+
 <!--
 **emir-dy2023/emir-dy2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
